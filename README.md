@@ -9,7 +9,7 @@ Leeds and Bristol. This end-to-end analytics project transforms
 raw transactional data into actionable business intelligence 
 using Python, SQL and Power BI.
 
-The analysis covers 10,000 transactions across 1,000 customers 
+This analysis covers 10,000 transactions across 1,000 customers 
 and 30 products spanning 6 categories from 2024 to 2026.
 
 ## 🎯 Business Problem
