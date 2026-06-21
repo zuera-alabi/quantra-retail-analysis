@@ -1,0 +1,31 @@
+product_id,product_name,product_category,unit_price,cost_price
+P001,Laptop,Electronics,321.52,131.02
+P002,Smartphone,Electronics,141.14,65.91
+P003,Tablet,Electronics,369.55,222.84
+P004,Headphones,Electronics,446.63,190.3
+P005,Smart Watch,Electronics,213.85,87.45
+P006,Jacket,Clothing,113.23,62.46
+P007,Jeans,Clothing,18.14,8.34
+P008,Dress,Clothing,326.69,184.08
+P009,Trainers,Clothing,114.12,65.82
+P010,Coat,Clothing,405.67,163.06
+P011,Coffee,Groceries,403.88,246.14
+P012,Tea,Groceries,173.42,77.46
+P013,Olive Oil,Groceries,478.82,239.88
+P014,Pasta,Groceries,50.91,21.84
+P015,Cereal,Groceries,424.51,246.69
+P016,Sofa,Home & Garden,404.53,250.37
+P017,Lamp,Home & Garden,270.43,187.12
+P018,Plant Pot,Home & Garden,192.37,108.81
+P019,Cushion,Home & Garden,415.56,243.33
+P020,Rug,Home & Garden,431.54,247.36
+P021,Moisturiser,Beauty,353.76,146.37
+P022,Shampoo,Beauty,117.81,57.35
+P023,Perfume,Beauty,44.5,20.91
+P024,Lipstick,Beauty,55.0,26.59
+P025,Foundation,Beauty,319.66,162.85
+P026,Yoga Mat,Sports,188.24,87.13
+P027,Dumbbells,Sports,137.15,93.4
+P028,Running Shoes,Sports,325.78,189.84
+P029,Protein Powder,Sports,89.71,55.51
+P030,Gym Bag,Sports,85.88,44.13
