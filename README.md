@@ -72,3 +72,37 @@ quantra-retail-analysis/
 
 ### 6. Strategic Recommendations
 ![Recommendations](images/06_recommendations_page.png)
+
+## 🔍 SQL Analysis
+9 analytical queries written in MySQL covering:
+- Total revenue, cost and profit analysis
+- Revenue by product category (JOIN query)
+- Revenue by city (JOIN query)
+- Top 10 most valuable customers (JOIN query)
+- Monthly sales trends
+- Online vs In-Store performance
+- Revenue by payment method
+- Top performing products (JOIN query)
+- Profit margin by category (JOIN query)
+
+### SQL Query Preview
+![SQL Join Query](images/07_sql_join_query.png)
+
+## 📈 Key Findings
+- 📌 Total revenue of £7.43M with £3.50M profit across 10,000 transactions
+- 📌 Average profit margin of 47.75% across all product categories
+- 📌 Electronics is the most profitable category at 53.6% margin
+- 📌 Liverpool leads all UK cities in revenue at £829K
+- 📌 London ranks last at £565K — representing untapped growth potential
+- 📌 Online and In-Store sales split almost evenly at 50.78% vs 49.22%
+- 📌 51-70 age group are Quantra Retail's highest spending demographic
+- 📌 Norman Middleton is the most valuable customer at £20,182 revenue
+
+## 👩🏽‍💻 About the Author
+**Zuera Alabi**
+Data Analyst | Python | SQL | Power BI | Excel
+
+Behind every dataset is a decision waiting to be made, I help businesses find it.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/zuera-alabi-4b85a7282/)
+🔗 [GitHub](https://github.com/zuera-alabi)
